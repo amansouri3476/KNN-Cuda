@@ -1,2 +1,2 @@
 # KNN-on-GPU
-In this project I've implemented the well-known KNN algorithm on a GPU using CUDA
+In this project I've implemented the KNN algorithm on a GPU using CUDA
